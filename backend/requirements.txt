@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-pymongo
-python-dotenv
-pytest
-httpx
-google-genai
